@@ -1,0 +1,15 @@
+[Desktop Entry]
+_Name=GDE2 Calculator
+_GenericName=Calculator
+_Comment=Perform arithmetic, scientific or financial calculations
+Exec=gde2-calc
+Icon=accessories-calculator
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Utility;Calculator;
+X-GDE2-DocPath=gde2-calc/gde2-calc.xml
+X-GDE2-Bugzilla-Bugzilla=GDE2
+X-GDE2-Bugzilla-Product=gde2-calc
+X-GDE2-Bugzilla-Component=general
+X-GDE2-Bugzilla-OtherBinaries=gde2-calculator
